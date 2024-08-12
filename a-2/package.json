@@ -1,0 +1,8 @@
+{
+  "name": "webpack-resolve-test-a-1",
+  "version": "2.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ]
+}

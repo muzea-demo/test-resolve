@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "webpack serve --progress --mode development"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.7.10",
+    "html-webpack-plugin": "^5.6.0",
+    "swc-loader": "^0.2.6",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  },
+  "dependencies": {
+    "webpack-resolve-test-a-1": "2",
+    "webpack-resolve-test-b": "1"
+  }
+}
